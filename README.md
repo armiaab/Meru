@@ -13,3 +13,7 @@ It only handles JPEG files for now, not RAW.
 ## Build
 
 Open the project in Android Studio and run it on a phone that supports USB host mode.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
